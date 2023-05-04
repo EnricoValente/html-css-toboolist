@@ -18,6 +18,13 @@ body{
     background-color: #F6F8F9;
 }
 
+.container{
+
+    width: 75%;
+    margin: 0 auto;
+
+}
+
 
 /* HEADER */
 
@@ -33,3 +40,31 @@ h1{
     display: inline-block;
     vertical-align: middle;
 }
+
+
+
+/* MAIN */
+
+.button-container{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom: 1px solid #F6F8F9;
+    padding: 20px;
+}
+
+#special-button{
+    background-color: lightblue;
+    color: white;
+    border-radius: 5px;
+    border-color: lightblue;
+}
+
+#normal-button{
+    background-color: white;
+    border-color: lightgray;
+    color: lightgrey;
+    border-radius: 5px;
+}
+
+
+
