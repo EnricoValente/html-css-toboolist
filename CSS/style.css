@@ -99,25 +99,19 @@ h1{
     padding-left: 60px;
 }
 
-#link-zero{
+
+
+.link{
     background-color:#45ABEA;
     border: 1px solid #45ABEA;
     border-radius: 20%;
     font-size: x-small;
     padding: 5px;
     color: white;
-
 }
 
-#link{
-    background-color:#45ABEA;
-    border: 1px solid #45ABEA;
-    border-radius: 20%;
-    font-size: x-small;
-    padding: 5px;
-    color: white;
 
-}
+
 
 
 #link-one{
@@ -153,6 +147,26 @@ h1{
     font-size: x-small;
     padding: 5px;
     color: white;}
+
+
+#link-four{
+    background-color:#D863A1;
+    border: 1px solid #D863A1;
+    border-radius: 20%;
+    font-size: x-small;
+    padding: 5px;
+    color: white;
+
+}
+
+#link-five{
+    background-color:#B0C926;
+    border: 1px solid #B0C926;
+    border-radius: 20%;
+    font-size: x-small;
+    padding: 5px;
+    color: white;
+}
     
     
 
