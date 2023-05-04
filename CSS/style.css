@@ -48,8 +48,9 @@ h1{
 .button-container{
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
-    border-bottom: 1px solid #F6F8F9;
+    border-bottom: 1px solid lightgray;
     padding: 20px;
+    background-color: white;
 }
 
 #special-button{
@@ -57,6 +58,8 @@ h1{
     color: white;
     border-radius: 5px;
     border-color: lightblue;
+    font-size: large;
+
 }
 
 #normal-button{
@@ -64,7 +67,94 @@ h1{
     border-color: lightgray;
     color: lightgrey;
     border-radius: 5px;
+    font-size: large;
+}
+
+.list-container{
+    background-color: white;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.tasks-list{
+    padding-top: 30px;
+    padding-left: 40px;
+}
+
+.tasks-to-do{
+    display: inline-block;
+   
+
+}
+
+.entity-check{
+    color: #7BCAB8;
+    border: 1px solid #7BCAB8;
+    border-radius: 45%;
+    
+}
+
+.newsletter{
+    padding-top: 10px;
+    padding-left: 60px;
+}
+
+#link-zero{
+    background-color:#45ABEA;
+    border: 1px solid #45ABEA;
+    border-radius: 20%;
+    font-size: x-small;
+    padding: 5px;
+    color: white;
+
+}
+
+#link{
+    background-color:#45ABEA;
+    border: 1px solid #45ABEA;
+    border-radius: 20%;
+    font-size: x-small;
+    padding: 5px;
+    color: white;
+
 }
 
 
+#link-one{
+    background-color:#9C72E4;
+    border: 1px solid #9C72E4;
+    border-radius: 20%;
+    font-size: x-small;
+    padding: 5px;
+    color: white;
+}
 
+#link-two{
+    background-color:#64C0A9;
+    border: 1px solid #64C0A9;
+    border-radius: 20%;
+    font-size: x-small;
+    padding: 5px;
+    color: white;
+}
+
+.entity-cross{
+    color: #EF8C89;
+    border: 1px solid #EF8C89;
+    border-radius: 45%;
+
+}
+
+
+#link-three{
+    background-color:#F29E33;
+    border: 1px solid #F29E33;
+    border-radius: 20%;
+    font-size: x-small;
+    padding: 5px;
+    color: white;}
+    
+    
+
+
+    
